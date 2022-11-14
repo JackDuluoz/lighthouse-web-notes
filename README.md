@@ -1,5 +1,5 @@
 # Michael's Notes
 
-# First Header
+### Summary
 
-###### Last Header
+This repository contains notes taken during the Lighthouse Labs Web Development Bootcamp.
